@@ -12,7 +12,7 @@ Here are skills I've been developing:
 
 - <b>[Here's my profile on Hack the Box](https://app.hackthebox.com/profile/1517238)</b>
   
-<h2>📍 I’m currently studying...</h2>
+<h2>📍 I’m currently studying. . .</h2>
 
 - <b>[Web application construction with JavaScript, HTML and CSS](https://www.udemy.com/course/curso-web/)</b>
 

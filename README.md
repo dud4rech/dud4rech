@@ -7,6 +7,7 @@ Here are skills I've been developing:
 
 - <b>C:</b>
   - [Arrays management](https://github.com/dud4rech/arrays-management)
+  - [MIPS routines](https://github.com/dud4rech/mips_routines)
 
 <h2>📍 Hacking:</h2>
 
@@ -16,7 +17,7 @@ Here are skills I've been developing:
 
 - <b>[Web application construction with JavaScript, HTML and CSS](https://www.udemy.com/course/curso-web/)</b>
 
-<h2>📍 Feel free to contact with me!</h2>
+<h2>📍 Feel free to contact me!</h2>
 
 [<img align="left" alt="Eduarda S. Rech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 

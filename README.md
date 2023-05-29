@@ -1,7 +1,6 @@
-<h1>Hello there, I'm Eduarda! 😊 <br/><a href="https://github.com/dud4rech">Developer student </a> and <a href="https://www.linkedin.com/in/eduarda-s-rech-6916aa231/">Information Security Intern</a></h1>
+<h1>Hi there, I'm Eduarda! 😊 <br/><a href="https://github.com/dud4rech">Developer student </a> and <a href="https://www.linkedin.com/in/eduarda-s-rech-6916aa231/">Information Security Intern</a></h1>
   
 As a dev student and new in the field, I am constantly expanding my knowledge and skills while contributing to the world of technology.
-Here are skills I've been developing:
 
 <h2>📍 Software Development Projects:</h2>
 

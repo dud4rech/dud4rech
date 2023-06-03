@@ -6,15 +6,15 @@ As a dev student and new in the field, I am constantly expanding my knowledge an
 
 - <b>C:</b>
   - [Arrays management](https://github.com/dud4rech/arrays-management)
+- <b>Assembly:</b>
   - [MIPS routines](https://github.com/dud4rech/mips_routines)
 
-<h2>📍 Hacking:</h2>
+<h2>📍 Cybersecurity Projects:</h2>
 
-- <b>[Here's my profile on Hack the Box](https://app.hackthebox.com/profile/1517238)</b>
-  
-<h2>📍 I’m currently studying. . .</h2>
+- [Basic Home Lab Running Active Directory](https://github.com/dud4rech/basic-home-lab-active-directory)
 
-- <b>[Web application construction with JavaScript, HTML and CSS](https://www.udemy.com/course/curso-web/)</b>
+
+📦 [Here's my profile on Hack the Box](https://app.hackthebox.com/profile/1517238)
 
 <h2>📍 Feel free to contact me!</h2>
 

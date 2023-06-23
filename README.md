@@ -9,9 +9,12 @@ As a dev student and new in the field, I am constantly expanding my knowledge an
 - <b>Assembly:</b>
   - [MIPS routines](https://github.com/dud4rech/mips_routines)
 
+> [Basic REST API](https://github.com/dud4rech/basic-rest-api-example)
+
 <h2>📍 Cybersecurity Projects:</h2>
 
-- [Basic Home Lab Running Active Directory](https://github.com/dud4rech/basic-home-lab-active-directory)
+  - [Basic Home Lab Running Active Directory](https://github.com/dud4rech/basic-home-lab-active-directory)
+  - [Basic File Integrity Monitor](https://github.com/dud4rech/basic-file-integrity-monitor)
 
 
 📦 [Here's my profile on Hack the Box](https://app.hackthebox.com/profile/1517238)

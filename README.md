@@ -1,8 +1,8 @@
-<h1>Hi there, I'm Eduarda! 😊 <br/><a href="https://github.com/dud4rech">Developer student </a> and <a href="https://www.linkedin.com/in/eduarda-s-rech-6916aa231/">Information Security Intern</a></h1>
+<h2>Hi there, I'm Eduarda! 😊 <br/><<a href="https://github.com/dud4rech">Developer student </a> and <a href="https://www.linkedin.com/in/eduarda-s-rech-6916aa231/">Information Security Intern</a></h2>
   
 As a dev student and new in the field, I am constantly expanding my knowledge and skills while contributing to the world of technology.
 
-<h2>📍 Software Development Projects:</h2>
+<h3>📍 Software Development Projects:</h3>
 
 - <b>C:</b>
   - [Arrays management](https://github.com/dud4rech/arrays-management)
@@ -11,7 +11,7 @@ As a dev student and new in the field, I am constantly expanding my knowledge an
 
 > [Basic REST API](https://github.com/dud4rech/basic-rest-api-example)
 
-<h2>📍 Cybersecurity Projects:</h2>
+<h3>📍 Cybersecurity Projects:</h3>
 
   - [Basic Home Lab Running Active Directory](https://github.com/dud4rech/basic-home-lab-active-directory)
   - [Basic File Integrity Monitor](https://github.com/dud4rech/basic-file-integrity-monitor)
@@ -19,7 +19,7 @@ As a dev student and new in the field, I am constantly expanding my knowledge an
 
 📦 [Here's my profile on Hack the Box](https://app.hackthebox.com/profile/1517238)
 
-<h2>📍 Feel free to contact me!</h2>
+<h3>📍 Feel free to contact me!</h3>
 
 [<img align="left" alt="Eduarda S. Rech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 

@@ -6,15 +6,16 @@ As a dev student and new in the field, I am constantly expanding my knowledge an
 
 - <b>C:</b>
   - [Arrays management](https://github.com/dud4rech/arrays-management)
+  - - <b>JavaScript:</b>
+  - [Basic REST API](https://github.com/dud4rech/basic-rest-api-example)
 - <b>Assembly:</b>
   - [MIPS routines](https://github.com/dud4rech/mips_routines)
-
-> [Basic REST API](https://github.com/dud4rech/basic-rest-api-example)
 
 <h3>📍 Cybersecurity Projects:</h3>
 
   - [Basic Home Lab Running Active Directory](https://github.com/dud4rech/basic-home-lab-active-directory)
   - [Basic File Integrity Monitor](https://github.com/dud4rech/basic-file-integrity-monitor)
+  - [Basic Home Lab: Firewall, WAF and SIEM](https://github.com/dud4rech/firewall_waf_siem_lab)
 
 
 📦 [Here's my profile on Hack the Box](https://app.hackthebox.com/profile/1517238)

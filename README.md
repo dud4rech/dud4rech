@@ -6,8 +6,9 @@ As a dev student and new in the field, I am constantly expanding my knowledge an
 
 - <b>C:</b>
   - [Arrays management](https://github.com/dud4rech/arrays-management)
-  - - <b>JavaScript:</b>
+- <b>JavaScript:</b>
   - [Basic REST API](https://github.com/dud4rech/basic-rest-api-example)
+  - [OWASP Top 10 Cards](https://github.com/dud4rech/owasp_cards)
 - <b>Assembly:</b>
   - [MIPS routines](https://github.com/dud4rech/mips_routines)
 

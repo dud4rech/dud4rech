@@ -8,7 +8,6 @@ As a dev student and new in the field, I am constantly expanding my knowledge an
   - [Arrays management](https://github.com/dud4rech/arrays-management)
 - <b>JavaScript:</b>
   - [Basic REST API](https://github.com/dud4rech/basic-rest-api-example)
-  - [OWASP Top 10 Cards](https://github.com/dud4rech/owasp_cards)
 - <b>Assembly:</b>
   - [MIPS routines](https://github.com/dud4rech/mips_routines)
 
@@ -17,6 +16,7 @@ As a dev student and new in the field, I am constantly expanding my knowledge an
   - [Basic Home Lab Running Active Directory](https://github.com/dud4rech/basic-home-lab-active-directory)
   - [Basic File Integrity Monitor](https://github.com/dud4rech/basic-file-integrity-monitor)
   - [Basic Home Lab: Firewall, WAF and SIEM](https://github.com/dud4rech/firewall_waf_siem_lab)
+  - [OWASP Top 10 Cards](https://github.com/dud4rech/owasp_cards)
 
 
 📦 [Here's my profile on Hack the Box](https://app.hackthebox.com/profile/1517238)

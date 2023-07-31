@@ -19,8 +19,6 @@ As a dev student and new in the field, I am constantly expanding my knowledge an
   - [OWASP Top 10 Cards](https://github.com/dud4rech/owasp_cards)
 
 
-📦 [Here's my profile on Hack the Box](https://app.hackthebox.com/profile/1517238)
-
 <h3>📍 Feel free to contact me!</h3>
 
 [<img align="left" alt="Eduarda S. Rech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

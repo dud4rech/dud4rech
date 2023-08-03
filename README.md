@@ -4,10 +4,13 @@ As a dev student and new in the field, I am constantly expanding my knowledge an
 
 <h3>📍 Software Development Projects:</h3>
 
+-<b>HTML e CSS:<b>
+  -[Alura Plus](https://github.com/dud4rech/alura-plus)
+  -[Alura Books](https://github.com/dud4rech/alura-books)
+  - <b>JavaScript:</b>
+  - [Basic REST API](https://github.com/dud4rech/basic-rest-api-example)
 - <b>C:</b>
   - [Arrays management](https://github.com/dud4rech/arrays-management)
-- <b>JavaScript:</b>
-  - [Basic REST API](https://github.com/dud4rech/basic-rest-api-example)
 - <b>Assembly:</b>
   - [MIPS routines](https://github.com/dud4rech/mips_routines)
 

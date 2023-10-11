@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Eduarda! 😊 <br/><a href="https://github.com/dud4rech">Dev student</a>
+<h2>Hi there, I'm Eduarda! 😊 <br/><a href="https://www.linkedin.com/in/eduarda-s-rech-6916aa231/">Dev student</a>
   
 <h3>As a dev student and new in the field, I am constantly expanding my knowledge and skills while contributing to the world of technology.</h3>
 
@@ -20,12 +20,6 @@
   - [Basic File Integrity Monitor](https://github.com/dud4rech/basic-file-integrity-monitor)
   - [Basic Home Lab: Firewall, WAF and SIEM](https://github.com/dud4rech/firewall_waf_siem_lab)
 
-
-<h3>📍 Feel free to contact me!</h3>
-
-<img align="left" alt="Eduarda S. Rech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> [linkedin]
-
-[linkedin]: https://www.linkedin.com/in/eduarda-s-rech-6916aa231/
 
 <!--
 **dud4rech/dud4rech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

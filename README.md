@@ -23,7 +23,7 @@
 
 <h3>📍 Feel free to contact me!</h3>
 
-<img align="left" alt="Eduarda S. Rech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+<img align="left" alt="Eduarda S. Rech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> [linkedin]
 
 [linkedin]: https://www.linkedin.com/in/eduarda-s-rech-6916aa231/
 

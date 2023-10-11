@@ -1,6 +1,6 @@
-<h2>Hi there, I'm Eduarda! 😊 <br/><a href="https://github.com/dud4rech">Developer student </a> and <a href="https://www.linkedin.com/in/eduarda-s-rech-6916aa231/">Information Security Intern</a></h2>
+<h2>Hi there, I'm Eduarda! 😊 <br/><a href="https://github.com/dud4rech">Dev student</a>
   
-As a dev student and new in the field, I am constantly expanding my knowledge and skills while contributing to the world of technology.
+<h3>As a dev student and new in the field, I am constantly expanding my knowledge and skills while contributing to the world of technology.</h3>
 
 <h3>📍 Software Development Projects:</h3>
 
@@ -19,7 +19,6 @@ As a dev student and new in the field, I am constantly expanding my knowledge an
   - [Basic Home Lab Running Active Directory](https://github.com/dud4rech/basic-home-lab-active-directory)
   - [Basic File Integrity Monitor](https://github.com/dud4rech/basic-file-integrity-monitor)
   - [Basic Home Lab: Firewall, WAF and SIEM](https://github.com/dud4rech/firewall_waf_siem_lab)
-  - [OWASP Top 10 Cards](https://github.com/dud4rech/owasp_cards)
 
 
 <h3>📍 Feel free to contact me!</h3>

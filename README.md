@@ -1,6 +1,5 @@
-<h2>Hi there, I'm Eduarda! 😊 <br/><a href="https://www.linkedin.com/in/eduarda-s-rech-6916aa231/">Dev student</a>
+<h2>Hi there, I'm Eduarda 😊 <br/><a href="https://www.linkedin.com/in/eduarda-s-rech-6916aa231/">A dev student!</a>
   
-<h3>As a dev student and new in the field, I am constantly expanding my knowledge and skills while contributing to the world of technology.</h3>
 
 <h3>📍 Software Development Projects:</h3>
 

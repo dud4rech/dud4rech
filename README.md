@@ -13,12 +13,6 @@
 - <b>Assembly:</b>
   - [MIPS routines](https://github.com/dud4rech/mips_routines)
 
-<h3>📍 Cybersecurity Projects:</h3>
-
-  - [Basic Home Lab Running Active Directory](https://github.com/dud4rech/basic-home-lab-active-directory)
-  - [Basic File Integrity Monitor](https://github.com/dud4rech/basic-file-integrity-monitor)
-  - [Basic Home Lab: Firewall, WAF and SIEM](https://github.com/dud4rech/firewall_waf_siem_lab)
-
 
 <!--
 **dud4rech/dud4rech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

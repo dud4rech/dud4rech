@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Eduarda 😊 <br/><a href="https://www.linkedin.com/in/eduarda-s-rech-6916aa231/">A dev student!</a>
+<h2>Hi there, I'm Eduarda 😊 <br/><a href="https://www.linkedin.com/in/eduarda-s-rech-6916aa231/">Dev student!</a>
   
 
 <h3>📍 Software Development Projects:</h3>

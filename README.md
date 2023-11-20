@@ -4,10 +4,9 @@
 <h3>📍 Software Development Projects:</h3>
 
 - <b>HTML e CSS:</b>
-  -  [Alura Plus](https://github.com/dud4rech/alura-plus)
   -  [Alura Books](https://github.com/dud4rech/alura-books)
 - <b>JavaScript:</b>
-  - [Basic REST API](https://github.com/dud4rech/basic-rest-api-example)
+  - [Flappy Bird](https://github.com/dud4rech/flappyBird)
 - <b>C:</b>
   - [Arrays management](https://github.com/dud4rech/arrays-management)
 - <b>Assembly:</b>
